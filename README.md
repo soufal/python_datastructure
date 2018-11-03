@@ -1,5 +1,5 @@
 ---
-typora-copy-images-to: ./
+typora-copy-images-to: ./image
 ---
 
 
